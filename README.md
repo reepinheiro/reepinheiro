@@ -1,9 +1,7 @@
 ## Sobre mim 🧙🏻
 
 Olá! Sou Renan Pinheiro, um entusiasta em tecnologia e apaixonado por cibersegurança.</br> 
-Atualmente, estou em transição de carreira profissional e focado em expandir meu conhecimento e habilidades na área de programação.</br>
-Tenho buscado me aprimorar em segurança da informação, identificando e mitigando riscos de segurança cibernética para proteger organizações e usuários.</br>
-Minha determinação em aprender e acompanhar as tendências tecnológicas impulsiona meu desejo de contribuir para um ambiente digital mais seguro.
+
 
 ## Skills 🔧
 
