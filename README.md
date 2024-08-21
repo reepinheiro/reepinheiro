@@ -1,7 +1,5 @@
 ## Sobre mim 🧙🏻
 
-Olá! Sou Renan Pinheiro, um entusiasta em tecnologia e apaixonado por cibersegurança.</br> 
-
 
 ## Skills 🔧
 
